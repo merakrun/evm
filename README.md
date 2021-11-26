@@ -40,7 +40,7 @@ To start working with SputnikVM you'll
 need to install [rustup](https://www.rustup.rs/), then you can do:
 
 ```bash
-$ git clone git@github.com:sorpaas/rust-evm.git
+$ git clone git@github.com:5ire-org/rust-evm.git
 $ cd rust-evm
 $ cargo build --release --all
 ```
